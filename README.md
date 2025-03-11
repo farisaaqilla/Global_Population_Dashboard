@@ -1,1 +1,1 @@
-# Global_Population_Dashboard
+Explore global population trends with this interactive Power BI dashboard! Visualizing real-time data, demographic insights, and country-wise comparisons, it transforms raw statistics into clear, actionable insights. Uncover patterns, analyze growth, and make data-driven decisions effortlessly
